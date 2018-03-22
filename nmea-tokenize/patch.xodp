@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "BJYUXY0FM",
+      "label": "PUSH",
+      "position": {
+        "x": 102,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-pulse"
+    },
+    {
+      "id": "BkQKQF0tf",
+      "label": "RDY",
+      "position": {
+        "x": 102,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-pulse"
+    },
+    {
+      "id": "H1ZqQKCFf",
+      "label": "TOK",
+      "position": {
+        "x": 34,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-string"
+    },
+    {
+      "id": "HkF55sCFM",
+      "label": "LINE",
+      "position": {
+        "x": 170,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-pulse"
+    },
+    {
+      "id": "rJ69QK0Yf",
+      "position": {
+        "x": 34,
+        "y": 102
+      },
+      "type": "xod/patch-nodes/not-implemented-in-xod"
+    },
+    {
+      "id": "rkqS7t0tf",
+      "label": "CHAR",
+      "position": {
+        "x": 34,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-number"
+    }
+  ]
+}

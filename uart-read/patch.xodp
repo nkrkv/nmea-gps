@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "id": "BJzYZTjk5z",
+      "label": "EXEC",
+      "position": {
+        "x": 34,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-pulse"
+    },
+    {
+      "id": "SkKWpsy5f",
+      "label": "BYTE",
+      "position": {
+        "x": -1,
+        "y": 203
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "SkVtyhJ5f",
+      "label": "UART",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-number"
+    },
+    {
+      "id": "rJWF-aoJcz",
+      "position": {
+        "x": -1,
+        "y": 101
+      },
+      "type": "xod/patch-nodes/not-implemented-in-xod"
+    }
+  ]
+}

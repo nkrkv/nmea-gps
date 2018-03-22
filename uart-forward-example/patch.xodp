@@ -1,0 +1,329 @@
+{
+  "comments": [
+    {
+      "content": "CDC\n↓",
+      "id": "ryFwMgg5z",
+      "position": {
+        "x": 340,
+        "y": 0
+      },
+      "size": {
+        "height": 51,
+        "width": 136
+      }
+    }
+  ],
+  "links": [
+    {
+      "id": "BJ26D-lqG",
+      "input": {
+        "nodeId": "Sk92Pbg5f",
+        "pinKey": "ryTIROHwkW"
+      },
+      "output": {
+        "nodeId": "BJI3PZgcM",
+        "pinKey": "HJU8CE2lW"
+      }
+    },
+    {
+      "id": "BkFGzllcf",
+      "input": {
+        "nodeId": "Hkbzzxe5z",
+        "pinKey": "r1bVLR_BPJW"
+      },
+      "output": {
+        "nodeId": "BJJxMlecM",
+        "pinKey": "HkyxURuSPyW"
+      }
+    },
+    {
+      "id": "H18GMgxcG",
+      "input": {
+        "nodeId": "Hkbzzxe5z",
+        "pinKey": "SJMVU0urvkZ"
+      },
+      "output": {
+        "nodeId": "ryhoFRy9M",
+        "pinKey": "HkyxURuSPyW"
+      }
+    },
+    {
+      "id": "H1ZxMex5M",
+      "input": {
+        "nodeId": "BJJxMlecM",
+        "pinKey": "Bkh8A_Sv1-"
+      },
+      "output": {
+        "nodeId": "SyqsWgg9z",
+        "pinKey": "HyP4Osy5M"
+      }
+    },
+    {
+      "id": "HJ44H-xcz",
+      "input": {
+        "nodeId": "SyR7Hbg5G",
+        "pinKey": "rJgHidoJqG"
+      },
+      "output": {
+        "nodeId": "SyqsWgg9z",
+        "pinKey": "HyP4Osy5M"
+      }
+    },
+    {
+      "id": "HkG_LZl9z",
+      "input": {
+        "nodeId": "ryhoFRy9M",
+        "pinKey": "Bkh8A_Sv1-"
+      },
+      "output": {
+        "nodeId": "BJTYYxx9M",
+        "pinKey": "SyHUWhJ5z"
+      }
+    },
+    {
+      "id": "HkJqExgqM",
+      "input": {
+        "nodeId": "ryIKExlqf",
+        "pinKey": "BkrvQlg9G"
+      },
+      "output": {
+        "nodeId": "ByqjtCJqG",
+        "pinKey": "H1M3Ehk9G"
+      }
+    },
+    {
+      "id": "HyyEuZxcG",
+      "input": {
+        "nodeId": "BJTYYxx9M",
+        "pinKey": "By6mbn19f"
+      },
+      "output": {
+        "nodeId": "BJyQuZgqG",
+        "pinKey": "Bk4gU0drwJ-"
+      }
+    },
+    {
+      "id": "S1vv0rW9f",
+      "input": {
+        "nodeId": "BkQwArbqG",
+        "pinKey": "ryFw2H-9f"
+      },
+      "output": {
+        "nodeId": "ByqjtCJqG",
+        "pinKey": "H1M3Ehk9G"
+      }
+    },
+    {
+      "id": "SJ-4dWeqM",
+      "input": {
+        "nodeId": "SyqsWgg9z",
+        "pinKey": "rkA7ds15z"
+      },
+      "output": {
+        "nodeId": "BJyQuZgqG",
+        "pinKey": "Bk4gU0drwJ-"
+      }
+    },
+    {
+      "id": "SJTTDWeqM",
+      "input": {
+        "nodeId": "S1AhDbe5f",
+        "pinKey": "HyYh1a3LZ"
+      },
+      "output": {
+        "nodeId": "Sk92Pbg5f",
+        "pinKey": "HkyxURuSPyW"
+      }
+    },
+    {
+      "id": "SJv8rZe9G",
+      "input": {
+        "nodeId": "SkJLHWlcf",
+        "pinKey": "rJgHidoJqG"
+      },
+      "output": {
+        "nodeId": "Hkbzzxe5z",
+        "pinKey": "B1gN80uHvk-"
+      }
+    },
+    {
+      "id": "SkEfGllqz",
+      "input": {
+        "nodeId": "ByqjtCJqG",
+        "pinKey": "BJFc4n19z"
+      },
+      "output": {
+        "nodeId": "Hkbzzxe5z",
+        "pinKey": "B1gN80uHvk-"
+      }
+    },
+    {
+      "id": "r1pQ_blqM",
+      "input": {
+        "nodeId": "BJyQuZgqG",
+        "pinKey": "SkSuD6LMb"
+      },
+      "output": {
+        "nodeId": "S1smdbxqf",
+        "pinKey": "ryVmUAOrvkb"
+      }
+    },
+    {
+      "id": "rJ9DRHbcM",
+      "input": {
+        "nodeId": "ryIKExlqf",
+        "pinKey": "rkFLXxl5f"
+      },
+      "output": {
+        "nodeId": "BkQwArbqG",
+        "pinKey": "HJZO3HW5f"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "boundValues": {
+        "B13SCNhl-": 0.2
+      },
+      "id": "BJI3PZgcM",
+      "position": {
+        "x": 714,
+        "y": 102
+      },
+      "type": "xod/core/clock"
+    },
+    {
+      "id": "BJJxMlecM",
+      "position": {
+        "x": 340,
+        "y": 204
+      },
+      "type": "xod/core/flip-flop"
+    },
+    {
+      "boundValues": {
+        "rJG7Why9M": 1
+      },
+      "id": "BJTYYxx9M",
+      "position": {
+        "x": 102,
+        "y": 102
+      },
+      "type": "@/uart-setup-for-gps"
+    },
+    {
+      "boundValues": {
+        "Skre8ROSv1-": 5
+      },
+      "id": "BJyQuZgqG",
+      "position": {
+        "x": 238,
+        "y": -102
+      },
+      "type": "xod/core/delay"
+    },
+    {
+      "id": "BkQwArbqG",
+      "position": {
+        "x": 306,
+        "y": 612
+      },
+      "type": "@/pulse-on-datum-number"
+    },
+    {
+      "boundValues": {
+        "Sk-YVnk9z": 1
+      },
+      "id": "ByqjtCJqG",
+      "position": {
+        "x": 68,
+        "y": 408
+      },
+      "type": "@/uart-stream"
+    },
+    {
+      "id": "Hkbzzxe5z",
+      "position": {
+        "x": 238,
+        "y": 306
+      },
+      "type": "xod/core/and"
+    },
+    {
+      "boundValues": {
+        "B1oqkTnIb": 13
+      },
+      "id": "S1AhDbe5f",
+      "position": {
+        "x": 714,
+        "y": 306
+      },
+      "type": "xod/common-hardware/led"
+    },
+    {
+      "id": "S1smdbxqf",
+      "position": {
+        "x": 272,
+        "y": -204
+      },
+      "type": "xod/core/boot"
+    },
+    {
+      "id": "Sk92Pbg5f",
+      "position": {
+        "x": 714,
+        "y": 204
+      },
+      "type": "xod/core/flip-flop"
+    },
+    {
+      "boundValues": {
+        "r1fTOokqz": "UART1 Ready"
+      },
+      "id": "SkJLHWlcf",
+      "position": {
+        "x": 442,
+        "y": 510
+      },
+      "type": "@/uart-print-line"
+    },
+    {
+      "boundValues": {
+        "r1fTOokqz": "UART0 Ready"
+      },
+      "id": "SyR7Hbg5G",
+      "position": {
+        "x": 476,
+        "y": 204
+      },
+      "type": "@/uart-print-line"
+    },
+    {
+      "boundValues": {
+        "r1uOcs1cM": 115200
+      },
+      "id": "SyqsWgg9z",
+      "position": {
+        "x": 340,
+        "y": 102
+      },
+      "type": "@/uart-begin"
+    },
+    {
+      "id": "ryIKExlqf",
+      "position": {
+        "x": 340,
+        "y": 612
+      },
+      "type": "@/uart-write"
+    },
+    {
+      "id": "ryhoFRy9M",
+      "position": {
+        "x": 102,
+        "y": 204
+      },
+      "type": "xod/core/flip-flop"
+    }
+  ]
+}

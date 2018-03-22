@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "BkCI_ik9f",
+      "position": {
+        "x": 34,
+        "y": 102
+      },
+      "type": "xod/patch-nodes/not-implemented-in-xod"
+    },
+    {
+      "id": "HyP4Osy5M",
+      "label": "DONE",
+      "position": {
+        "x": 34,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-pulse"
+    },
+    {
+      "boundValues": {
+        "__out__": 9600
+      },
+      "id": "r1uOcs1cM",
+      "label": "BAUD",
+      "position": {
+        "x": 68,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-number"
+    },
+    {
+      "boundValues": {
+        "__out__": "ON_BOOT"
+      },
+      "id": "rkA7ds15z",
+      "label": "EXEC",
+      "position": {
+        "x": 102,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-pulse"
+    },
+    {
+      "id": "ryCfuiJcz",
+      "label": "UART",
+      "position": {
+        "x": 34,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-number"
+    }
+  ]
+}

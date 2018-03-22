@@ -1,0 +1,169 @@
+{
+  "links": [
+    {
+      "id": "B17aG90Kz",
+      "input": {
+        "nodeId": "B1l5nM5AKM",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "H10tNKCYz",
+        "pinKey": "ByCZzc0tM"
+      }
+    },
+    {
+      "id": "ByJoEtAKM",
+      "input": {
+        "nodeId": "rJltq4YAKf",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "H10tNKCYz",
+        "pinKey": "HJpDbKRtM"
+      }
+    },
+    {
+      "id": "Byn9VYCKf",
+      "input": {
+        "nodeId": "SyxOqVYRtM",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "H10tNKCYz",
+        "pinKey": "BkD8-tRtM"
+      }
+    },
+    {
+      "id": "HJZ6z9CYM",
+      "input": {
+        "nodeId": "rJ5hfc0tf",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "H10tNKCYz",
+        "pinKey": "HJNhZ9Rtf"
+      }
+    },
+    {
+      "id": "S1j5VFCKf",
+      "input": {
+        "nodeId": "H1OcEtCKz",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "H10tNKCYz",
+        "pinKey": "SyyUWK0Yz"
+      }
+    },
+    {
+      "id": "SJRq4tCFG",
+      "input": {
+        "nodeId": "HJFqNKAtz",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "H10tNKCYz",
+        "pinKey": "B1vvbF0Fz"
+      }
+    },
+    {
+      "id": "rJDcVF0FM",
+      "input": {
+        "nodeId": "Sy45NtRYf",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "H10tNKCYz",
+        "pinKey": "B1wSZFCtG"
+      }
+    },
+    {
+      "id": "ryyaz90FM",
+      "input": {
+        "nodeId": "BJ63fcCtM",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "H10tNKCYz",
+        "pinKey": "Byp8bqCFf"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "B1l5nM5AKM",
+      "position": {
+        "x": -170,
+        "y": 204
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "BJ63fcCtM",
+      "position": {
+        "x": -34,
+        "y": 204
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "boundValues": {
+        "r1ksJ3y5z": 1
+      },
+      "id": "H10tNKCYz",
+      "position": {
+        "x": -272,
+        "y": 0
+      },
+      "type": "@/gps"
+    },
+    {
+      "id": "H1OcEtCKz",
+      "position": {
+        "x": -238,
+        "y": 204
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "HJFqNKAtz",
+      "position": {
+        "x": -102,
+        "y": 204
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "Sy45NtRYf",
+      "position": {
+        "x": -272,
+        "y": 204
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "SyxOqVYRtM",
+      "position": {
+        "x": -136,
+        "y": 204
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "rJ5hfc0tf",
+      "position": {
+        "x": -204,
+        "y": 204
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "rJltq4YAKf",
+      "position": {
+        "x": -68,
+        "y": 204
+      },
+      "type": "xod/core/watch"
+    }
+  ]
+}

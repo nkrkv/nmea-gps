@@ -1,0 +1,154 @@
+{
+  "description": "Reads bytes from UART while enabled",
+  "links": [
+    {
+      "id": "B17lxBn15f",
+      "input": {
+        "nodeId": "Hyxxr21qM",
+        "pinKey": "ByU7LRuSPkW"
+      },
+      "output": {
+        "nodeId": "HyexeHn15M",
+        "pinKey": "HJ1uXKDpb"
+      }
+    },
+    {
+      "id": "BJeWr3J9G",
+      "input": {
+        "nodeId": "BJ9gS2kcf",
+        "pinKey": "BJzYZTjk5z"
+      },
+      "output": {
+        "nodeId": "Hyxxr21qM",
+        "pinKey": "ByHmL0uHPk-"
+      }
+    },
+    {
+      "id": "HJRF6HZ5G",
+      "input": {
+        "nodeId": "rJGelr2J5G",
+        "pinKey": "Hk-UvIK9b"
+      },
+      "output": {
+        "nodeId": "Hyxxr21qM",
+        "pinKey": "ByHmL0uHPk-"
+      }
+    },
+    {
+      "id": "Hk-GSnk9z",
+      "input": {
+        "nodeId": "H1M3Ehk9G",
+        "pinKey": "__in__"
+      },
+      "output": {
+        "nodeId": "BJ9gS2kcf",
+        "pinKey": "SkKWpsy5f"
+      }
+    },
+    {
+      "id": "HkjzShk9G",
+      "input": {
+        "nodeId": "HyexeHn15M",
+        "pinKey": "BJf6HXtDaW"
+      },
+      "output": {
+        "nodeId": "BJFc4n19z",
+        "pinKey": "__out__"
+      }
+    },
+    {
+      "id": "rJ3bH2Jqf",
+      "input": {
+        "nodeId": "BJ9gS2kcf",
+        "pinKey": "SkVtyhJ5f"
+      },
+      "output": {
+        "nodeId": "Sk-YVnk9z",
+        "pinKey": "__out__"
+      }
+    },
+    {
+      "id": "rJHxgS31cM",
+      "input": {
+        "nodeId": "HyexeHn15M",
+        "pinKey": "S1VDQYD6W"
+      },
+      "output": {
+        "nodeId": "rJGelr2J5G",
+        "pinKey": "S1K8wUY9b"
+      }
+    },
+    {
+      "id": "rJpGS2Jqf",
+      "input": {
+        "nodeId": "Hyxxr21qM",
+        "pinKey": "ryv7IRdSP1b"
+      },
+      "output": {
+        "nodeId": "BJFc4n19z",
+        "pinKey": "__out__"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "BJ9gS2kcf",
+      "position": {
+        "x": 68,
+        "y": 204
+      },
+      "type": "@/uart-read"
+    },
+    {
+      "id": "BJFc4n19z",
+      "label": "EN",
+      "position": {
+        "x": 340,
+        "y": -102
+      },
+      "type": "xod/patch-nodes/input-boolean"
+    },
+    {
+      "id": "H1M3Ehk9G",
+      "label": "BYTE",
+      "position": {
+        "x": 68,
+        "y": 306
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "HyexeHn15M",
+      "position": {
+        "x": 306,
+        "y": 204
+      },
+      "type": "xod/core/gate-pulse"
+    },
+    {
+      "id": "Hyxxr21qM",
+      "position": {
+        "x": 102,
+        "y": 102
+      },
+      "type": "xod/core/any"
+    },
+    {
+      "id": "Sk-YVnk9z",
+      "label": "UART",
+      "position": {
+        "x": 68,
+        "y": -102
+      },
+      "type": "xod/patch-nodes/input-number"
+    },
+    {
+      "id": "rJGelr2J5G",
+      "position": {
+        "x": 170,
+        "y": 204
+      },
+      "type": "xod/core/defer-pulse"
+    }
+  ]
+}

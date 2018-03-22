@@ -1,0 +1,436 @@
+{
+  "comments": [
+    {
+      "content": "Controls auto-reading of UART.\nStops it when the message is completed.",
+      "id": "B1iEdFCtz",
+      "position": {
+        "x": 170,
+        "y": 204
+      },
+      "size": {
+        "height": 51,
+        "width": 272
+      }
+    }
+  ],
+  "links": [
+    {
+      "id": "B16Wbq0Kz",
+      "input": {
+        "nodeId": "r1xeZqRYG",
+        "pinKey": "BJNFe5RFz"
+      },
+      "output": {
+        "nodeId": "H1V1bcRYM",
+        "pinKey": "HJeWZ9Rtf"
+      }
+    },
+    {
+      "id": "B1rzd3y5f",
+      "input": {
+        "nodeId": "SkrTPYRFf",
+        "pinKey": "B1RU0OrDkb"
+      },
+      "output": {
+        "nodeId": "SkAZu3kqM",
+        "pinKey": "S1K8wUY9b"
+      }
+    },
+    {
+      "id": "BJPWGcAYM",
+      "input": {
+        "nodeId": "Hy3d-YRKG",
+        "pinKey": "__in__"
+      },
+      "output": {
+        "nodeId": "H1V1bcRYM",
+        "pinKey": "S1IX2J9Atz"
+      }
+    },
+    {
+      "id": "BkSLxnkcf",
+      "input": {
+        "nodeId": "rJf8e2y9f",
+        "pinKey": "BJf6HXtDaW"
+      },
+      "output": {
+        "nodeId": "rkFHe215G",
+        "pinKey": "HkyxURuSPyW"
+      }
+    },
+    {
+      "id": "BkxzZ5RKz",
+      "input": {
+        "nodeId": "B1vvbF0Fz",
+        "pinKey": "__in__"
+      },
+      "output": {
+        "nodeId": "r1xeZqRYG",
+        "pinKey": "SyTtlqRYf"
+      }
+    },
+    {
+      "id": "BynOHnk5G",
+      "input": {
+        "nodeId": "ryIvB215G",
+        "pinKey": "BJFc4n19z"
+      },
+      "output": {
+        "nodeId": "SkrTPYRFf",
+        "pinKey": "HkyxURuSPyW"
+      }
+    },
+    {
+      "id": "ByqwW219G",
+      "input": {
+        "nodeId": "H1XvbhJ9M",
+        "pinKey": "rJG7Why9M"
+      },
+      "output": {
+        "nodeId": "r1ksJ3y5z",
+        "pinKey": "__out__"
+      }
+    },
+    {
+      "id": "H14oWcAFG",
+      "input": {
+        "nodeId": "Byp8bqCFf",
+        "pinKey": "__in__"
+      },
+      "output": {
+        "nodeId": "H1V1bcRYM",
+        "pinKey": "SyA4g5AtG"
+      }
+    },
+    {
+      "id": "H1YIen1qf",
+      "input": {
+        "nodeId": "rJf8e2y9f",
+        "pinKey": "S1VDQYD6W"
+      },
+      "output": {
+        "nodeId": "S1p_NKAtz",
+        "pinKey": "__out__"
+      }
+    },
+    {
+      "id": "HkIJZ50FM",
+      "input": {
+        "nodeId": "H1V1bcRYM",
+        "pinKey": "Sy72y9AKM"
+      },
+      "output": {
+        "nodeId": "HkasmYCKM",
+        "pinKey": "H1ZqQKCFf"
+      }
+    },
+    {
+      "id": "Hkd1W9CKf",
+      "input": {
+        "nodeId": "H1V1bcRYM",
+        "pinKey": "SyuQnkq0FM"
+      },
+      "output": {
+        "nodeId": "HkasmYCKM",
+        "pinKey": "BkQKQF0tf"
+      }
+    },
+    {
+      "id": "SJBfG90Ff",
+      "input": {
+        "nodeId": "ByCZzc0tM",
+        "pinKey": "__in__"
+      },
+      "output": {
+        "nodeId": "H1V1bcRYM",
+        "pinKey": "rJKxe5CYM"
+      }
+    },
+    {
+      "id": "SJQzunk9G",
+      "input": {
+        "nodeId": "SkAZu3kqM",
+        "pinKey": "Hk-UvIK9b"
+      },
+      "output": {
+        "nodeId": "H1V1bcRYM",
+        "pinKey": "S1IX2J9Atz"
+      }
+    },
+    {
+      "id": "SkQfM9AFG",
+      "input": {
+        "nodeId": "HJNhZ9Rtf",
+        "pinKey": "__in__"
+      },
+      "output": {
+        "nodeId": "H1V1bcRYM",
+        "pinKey": "HJcQ2k5AKz"
+      }
+    },
+    {
+      "id": "Syx2rhy5f",
+      "input": {
+        "nodeId": "ryIvB215G",
+        "pinKey": "Sk-YVnk9z"
+      },
+      "output": {
+        "nodeId": "r1ksJ3y5z",
+        "pinKey": "__out__"
+      }
+    },
+    {
+      "id": "r1JGbcCtM",
+      "input": {
+        "nodeId": "BkD8-tRtM",
+        "pinKey": "__in__"
+      },
+      "output": {
+        "nodeId": "r1xeZqRYG",
+        "pinKey": "r1jFlq0KG"
+      }
+    },
+    {
+      "id": "rJ91W50tz",
+      "input": {
+        "nodeId": "B1wSZFCtG",
+        "pinKey": "__in__"
+      },
+      "output": {
+        "nodeId": "H1V1bcRYM",
+        "pinKey": "rJl72kqCYM"
+      }
+    },
+    {
+      "id": "rJMMbqAtf",
+      "input": {
+        "nodeId": "HJpDbKRtM",
+        "pinKey": "__in__"
+      },
+      "output": {
+        "nodeId": "r1xeZqRYG",
+        "pinKey": "rJgate9CFz"
+      }
+    },
+    {
+      "id": "rJh1-cAFf",
+      "input": {
+        "nodeId": "SyyUWK0Yz",
+        "pinKey": "__in__"
+      },
+      "output": {
+        "nodeId": "H1V1bcRYM",
+        "pinKey": "S1ZXhy90FG"
+      }
+    },
+    {
+      "id": "ryVvgh15f",
+      "input": {
+        "nodeId": "SkrTPYRFf",
+        "pinKey": "Bkh8A_Sv1-"
+      },
+      "output": {
+        "nodeId": "rJf8e2y9f",
+        "pinKey": "HJ1uXKDpb"
+      }
+    },
+    {
+      "id": "ryZK-nk5f",
+      "input": {
+        "nodeId": "rkFHe215G",
+        "pinKey": "Bkh8A_Sv1-"
+      },
+      "output": {
+        "nodeId": "H1XvbhJ9M",
+        "pinKey": "SyHUWhJ5z"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "B1vvbF0Fz",
+      "label": "MIN",
+      "position": {
+        "x": 204,
+        "y": 714
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "B1wSZFCtG",
+      "label": "LAT",
+      "position": {
+        "x": 34,
+        "y": 714
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "BkD8-tRtM",
+      "label": "HOUR",
+      "position": {
+        "x": 170,
+        "y": 714
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "ByCZzc0tM",
+      "label": "CRS",
+      "position": {
+        "x": 136,
+        "y": 714
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "Byp8bqCFf",
+      "label": "OK",
+      "position": {
+        "x": 408,
+        "y": 714
+      },
+      "type": "xod/patch-nodes/output-boolean"
+    },
+    {
+      "id": "H1V1bcRYM",
+      "position": {
+        "x": 34,
+        "y": 510
+      },
+      "type": "@/gprmc-parse"
+    },
+    {
+      "boundValues": {
+        "By6mbn19f": "ON_BOOT"
+      },
+      "id": "H1XvbhJ9M",
+      "position": {
+        "x": -170,
+        "y": 102
+      },
+      "type": "@/uart-setup-for-gps"
+    },
+    {
+      "id": "HJNhZ9Rtf",
+      "label": "SPD",
+      "position": {
+        "x": 102,
+        "y": 714
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "HJkSs9RYM",
+      "position": {
+        "x": -102,
+        "y": 510
+      },
+      "type": "xod/core/console-log"
+    },
+    {
+      "id": "HJpDbKRtM",
+      "label": "SEC",
+      "position": {
+        "x": 238,
+        "y": 714
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "HkasmYCKM",
+      "position": {
+        "x": 34,
+        "y": 408
+      },
+      "type": "@/nmea-tokenize"
+    },
+    {
+      "id": "Hy3d-YRKG",
+      "label": "DONE",
+      "position": {
+        "x": 442,
+        "y": 714
+      },
+      "type": "xod/patch-nodes/output-pulse"
+    },
+    {
+      "boundValues": {
+        "__out__": "CONTINUOUSLY"
+      },
+      "id": "S1p_NKAtz",
+      "label": "UPD",
+      "position": {
+        "x": 68,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-pulse"
+    },
+    {
+      "id": "SkAZu3kqM",
+      "position": {
+        "x": 340,
+        "y": 408
+      },
+      "type": "xod/core/defer(pulse)"
+    },
+    {
+      "id": "SkrTPYRFf",
+      "position": {
+        "x": 68,
+        "y": 204
+      },
+      "type": "xod/core/flip-flop"
+    },
+    {
+      "id": "SyyUWK0Yz",
+      "label": "LON",
+      "position": {
+        "x": 68,
+        "y": 714
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "r1ksJ3y5z",
+      "label": "UART",
+      "position": {
+        "x": -272,
+        "y": 102
+      },
+      "type": "xod/patch-nodes/input-number"
+    },
+    {
+      "id": "r1xeZqRYG",
+      "position": {
+        "x": 170,
+        "y": 612
+      },
+      "type": "@/split-time"
+    },
+    {
+      "id": "rJf8e2y9f",
+      "position": {
+        "x": 68,
+        "y": 102
+      },
+      "type": "xod/core/gate-pulse"
+    },
+    {
+      "id": "rkFHe215G",
+      "position": {
+        "x": -68,
+        "y": 102
+      },
+      "type": "xod/core/flip-flop"
+    },
+    {
+      "id": "ryIvB215G",
+      "position": {
+        "x": 34,
+        "y": 306
+      },
+      "type": "@/uart-stream"
+    }
+  ]
+}

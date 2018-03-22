@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {
+      "id": "BJNFe5RFz",
+      "position": {
+        "x": 68,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-string"
+    },
+    {
+      "id": "SyTtlqRYf",
+      "label": "MIN",
+      "position": {
+        "x": 68,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "r1Ejgq0Kz",
+      "position": {
+        "x": 68,
+        "y": 102
+      },
+      "type": "xod/patch-nodes/not-implemented-in-xod"
+    },
+    {
+      "id": "r1jFlq0KG",
+      "label": "HOUR",
+      "position": {
+        "x": 34,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "rJgate9CFz",
+      "label": "SEC",
+      "position": {
+        "x": 102,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-number"
+    }
+  ]
+}
