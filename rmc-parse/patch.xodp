@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "BkGiL_UZcM",
+      "label": "LON",
+      "position": {
+        "x": 136,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "H1NS_Ubcf",
+      "label": "REJ",
+      "position": {
+        "x": 68,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-string"
+    },
+    {
+      "id": "H1Q0OLW5G",
+      "label": "ACT",
+      "position": {
+        "x": 272,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-boolean"
+    },
+    {
+      "id": "HJD0WHM5f",
+      "position": {
+        "x": 68,
+        "y": 102
+      },
+      "type": "xod/patch-nodes/not-implemented-in-xod"
+    },
+    {
+      "id": "S1jLuIb9M",
+      "label": "LAT",
+      "position": {
+        "x": 102,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "S1liIu8b5z",
+      "label": "CRS",
+      "position": {
+        "x": 204,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "r1Xsd8-5M",
+      "label": "TIME",
+      "position": {
+        "x": 238,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-string"
+    },
+    {
+      "id": "rkZiUdIWcG",
+      "label": "SPD",
+      "position": {
+        "x": 170,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-number"
+    },
+    {
+      "id": "rko4OUWqf",
+      "position": {
+        "x": 68,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-string"
+    }
+  ]
+}

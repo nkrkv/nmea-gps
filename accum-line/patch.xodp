@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "id": "BJ-t4LWcG",
+      "position": {
+        "x": 68,
+        "y": 102
+      },
+      "type": "xod/patch-nodes/not-implemented-in-xod"
+    },
+    {
+      "boundValues": {
+        "__out__": 80
+      },
+      "id": "HJLtNLb5z",
+      "label": "CAP",
+      "position": {
+        "x": 68,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-number"
+    },
+    {
+      "id": "S1nP4IWqG",
+      "label": "CHAR",
+      "position": {
+        "x": 102,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-number"
+    },
+    {
+      "id": "r1YuELb9G",
+      "position": {
+        "x": 68,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-string"
+    }
+  ]
+}
