@@ -1,0 +1,150 @@
+{
+  "links": [
+    {
+      "id": "B1nxeTvqf",
+      "input": {
+        "nodeId": "B1ewgxaD5z",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "HkqrGhv9G",
+        "pinKey": "rkZiUdIWcG"
+      }
+    },
+    {
+      "id": "BkoleTDqM",
+      "input": {
+        "nodeId": "ByPegavcM",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "HkqrGhv9G",
+        "pinKey": "BkGiL_UZcM"
+      }
+    },
+    {
+      "id": "Hy1-gpPqf",
+      "input": {
+        "nodeId": "S1dgeaDcM",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "HkqrGhv9G",
+        "pinKey": "H1Q0OLW5G"
+      }
+    },
+    {
+      "id": "HyqxeTD5f",
+      "input": {
+        "nodeId": "BkHelpw5f",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "HkqrGhv9G",
+        "pinKey": "S1jLuIb9M"
+      }
+    },
+    {
+      "id": "HyvPzhD5M",
+      "input": {
+        "nodeId": "HkqrGhv9G",
+        "pinKey": "rko4OUWqf"
+      },
+      "output": {
+        "nodeId": "SJaLG2v9f",
+        "pinKey": "B1x2RV3eZ"
+      }
+    },
+    {
+      "id": "SkRlepwqf",
+      "input": {
+        "nodeId": "H1fPxgaDcM",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "HkqrGhv9G",
+        "pinKey": "r1Xsd8-5M"
+      }
+    },
+    {
+      "id": "rJage6D9G",
+      "input": {
+        "nodeId": "HJbPxxpP5G",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "HkqrGhv9G",
+        "pinKey": "S1liIu8b5z"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "B1ewgxaD5z",
+      "position": {
+        "x": 170,
+        "y": 306
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "BkHelpw5f",
+      "position": {
+        "x": 102,
+        "y": 306
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "ByPegavcM",
+      "position": {
+        "x": 136,
+        "y": 306
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "H1fPxgaDcM",
+      "position": {
+        "x": 238,
+        "y": 306
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "HJbPxxpP5G",
+      "position": {
+        "x": 204,
+        "y": 306
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "HkqrGhv9G",
+      "position": {
+        "x": 68,
+        "y": 204
+      },
+      "type": "@/rmc-parse"
+    },
+    {
+      "id": "S1dgeaDcM",
+      "position": {
+        "x": 272,
+        "y": 306
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "boundValues": {
+        "B1x2RV3eZ": "$GNRMC,131036.000,A,5544.632358,N,03739.443062,E,1.63,41.96,220318,,,A*42"
+      },
+      "id": "SJaLG2v9f",
+      "position": {
+        "x": 68,
+        "y": 102
+      },
+      "type": "xod/core/constant-string"
+    }
+  ]
+}

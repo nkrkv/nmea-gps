@@ -30,7 +30,7 @@ void evaluate(Context ctx) {
         // demoted to a such constant then.
         state->buff = new char[cap];
         state->capacity = cap;
-        state->view = CStringView(&state->buff);
+        state->view = CStringView(state->buff);
     }
 
     if (!state->cursor)

@@ -12,6 +12,17 @@
       }
     },
     {
+      "id": "B1WBuqv5M",
+      "input": {
+        "nodeId": "HkxBuqvqG",
+        "pinKey": "HkXK-dGob"
+      },
+      "output": {
+        "nodeId": "H10tNKCYz",
+        "pinKey": "ByzQiL-qf"
+      }
+    },
+    {
       "id": "HJZ6z9CYM",
       "input": {
         "nodeId": "rJ5hfc0tf",
@@ -88,6 +99,14 @@
       "id": "H1OcEtCKz",
       "position": {
         "x": -238,
+        "y": 204
+      },
+      "type": "xod/core/watch"
+    },
+    {
+      "id": "HkxBuqvqG",
+      "position": {
+        "x": -136,
         "y": 204
       },
       "type": "xod/core/watch"
